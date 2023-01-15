@@ -18,7 +18,3 @@ Para executar o projeto é necessário:
     - Rodar as migrações, supondo que esteja dentro do projeto de Infra(ProductManager.Infra), rode o comando `dotnet ef database update -s ../ProductManager.Api`.
 
 
-
-Link do projeto rodando em um AppService: https://producto-manager-api.azurewebsites.net/swagger/index.html
-
-
